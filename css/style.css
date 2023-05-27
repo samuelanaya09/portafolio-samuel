@@ -48,10 +48,12 @@ header .menu a div span{
 header .menu .c-1{background: #3da5e2;}
 header .menu .c-2{background: #005385;}
 header .menu .c-3{background: #003855;}
+header .menu .c-4{background: #030411;}
 
 header .menu .c-1:hover{background: #1ba0ef;}
 header .menu .c-2:hover{background: #00426a;}
 header .menu .c-3:hover{background: #002d44;}
+header .menu .c-4:hover{background: #01121a;}
 
 .slider{
     margin-bottom: 40px;
