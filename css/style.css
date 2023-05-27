@@ -190,10 +190,10 @@ header .menu .c-4:hover{background: #01121a;}
     text-align: center;
     background: #cbcbcb;
     display: inline-block;
-    margin: 0px 20px;
+    margin: 0px 20px 30px 0px;
     text-decoration: none;
     border-radius: 100px;
-    transition: all .3s ease;
+    transition: all .3s linear;
 }
 .redes-sociales .twitter{background: #3da5e2;}
 .redes-sociales .instagram{background: #833ab4;}
